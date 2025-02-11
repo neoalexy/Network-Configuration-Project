@@ -15,4 +15,4 @@ Network configuration project completed as part of my university course **"Conne
 
 ## Images
 **Logical Scheme**   
-   ![Network Configuration Logical Scheme](docs/images/Network-configuration.PNG)
+   ![Network Configuration Logical Scheme](docs/images/Network-Configuration.PNG)
