@@ -13,5 +13,6 @@ Network configuration project completed as part of my university course **"Conne
 ## Technologies Used
 - Cisco Packet Tracer
 
-## Acknowledgments
-This project was developed as part of the university course **"Connecting Networks."**
+## Images
+**Logical Scheme**   
+   ![Network Configuration Logical Scheme](docs/images/Network-configuration.PNG)
